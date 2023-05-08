@@ -1,0 +1,6 @@
+
+
+RewriteOptions inherit
+
+# Use PHP5 as default
+AddHandler application/x-httpd-eig-php52 .php
